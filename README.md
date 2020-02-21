@@ -2,6 +2,9 @@
 
 This project uses [cropperjs](https://github.com/fengyuanchen/cropperjs) and some small PHP to allow the user to quickly crop an image in a 4:3 ratio and save it to the web server.
 
+## Screenshot
+[screenshot](https://raw.githubusercontent.com/vwinslow/QuickCrop/master/screenshots/example.png)
+
 ## Local Setup 
 Here is a process used for setting up a local development environment.
 
